@@ -11,7 +11,7 @@ int main()
  scanf("%d",&a);
  printf("\n Enter the second side of the triangle:");
  scanf("%d",&b);
- printf("\n Enter the third sid of the triangle:");
+ printf("\n Enter the third side of the triangle:");
  scanf("%d",&c);
  printf("\n Area of the triangle=%f\n",area(a,b,c));
  getch();
